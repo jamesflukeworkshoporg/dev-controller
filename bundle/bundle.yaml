@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "jamesflukeworkshoporg-dev-controller"
+description: "CloudBees CI configuration bundle for the jamesflukeworkshoporg dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/jamesflukeworkshoporg/dev-controller"
+parent: "base"
